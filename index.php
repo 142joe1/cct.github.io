@@ -184,7 +184,7 @@
 <body>
     <div class="container">
         <h1>Welcome to YouChews!!</h1>
-        <p>Please choose an option below to continue:</p>
+        <p>Please choose an option below to continue:!</p>
         <ul>
             <li><a href="login.php">Login</a></li>
             <li><a href="signup.php">Signup</a></li>
