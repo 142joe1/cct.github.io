@@ -1,2 +1,0 @@
-# cct.github.io
-cctns
